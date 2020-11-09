@@ -51,9 +51,7 @@
 - Java数据结构和算法(第二版) [百度云](https://pan.baidu.com/s/1O7ko4D3Kv26t1UnXKhZnnA)  密码: leen
 - Algorithms on Strings, Trees, and Sequences [百度云](https://pan.baidu.com/s/1UlPvv8bQUaQ-JTzEH6aFLg)  密码: ddvb
 - Advanced Data Structures [百度云](https://pan.baidu.com/s/1W1F0lGZ2I5Tny9dfGw1qtA)  密码: eo5d
-- leetcode cookbook [百度云](https://pan.baidu.com/s/1L_GF78SRMqTSRqCSB7DMkQ)  密码: c9d2
-- 和小浩学算法-小浩算法 [百度云](https://pan.baidu.com/s/1JzfdIAbwwEvH2FjtUbrg6Q)  密码: ls3m
-- labuladong的算法小抄 [百度云](https://pan.baidu.com/s/1ykhsSdhpgJlmsfTw9dCM6A)  密码: 35tj
+
 
 # C++
 - C++ Primer(第4版) [百度云](https://pan.baidu.com/s/17iDAUeKFrxLIp1FBNRBCmw)  密码: m3pu
@@ -69,7 +67,7 @@
 - Introduction to Java Programming [百度云](https://pan.baidu.com/s/1ba_N6BV8liF4ovU6EAXm-g)  密码: ajdn
 - think deep in java mem model [百度云](https://pan.baidu.com/s/1kBhyjDT9hv46wsaz6U4yIQ)  密码: jc12
 - Pro Java 7 NIO.2 [百度云](https://pan.baidu.com/s/1GEuPzp6YIeGFdpPFuxSJkQ)  密码: 6md3
-- Practical.API.Design.Confessions.of.a.Java.Framework.Architect [百度云](链接: https://pan.baidu.com/s/1a51moYznFyYJOXMAas-l-w)  密码: cb97                  
+- Practical.API.Design.Confessions.of.a.Java.Framework.Architect [百度云](https://pan.baidu.com/s/1a51moYznFyYJOXMAas-l-w)  密码: cb97                  
 - Java Performance-The Definitive Guide [百度云](https://pan.baidu.com/s/1JDg0O7O2ouX294WkLgYUmA)  密码: dohg                                      
 - Java.Enterprise.Design.Patterns [百度云](https://pan.baidu.com/s/1YgK1TwhVfoS6LuOYz3_Mkw)  密码: 087h
 - Java Book [百度云](https://pan.baidu.com/s/1Qaenc1pWo62_oswz8Z-0HA)  密码: ttev
@@ -82,7 +80,7 @@
 - 高质量Java编程实践v4 [百度云](https://pan.baidu.com/s/1AkRhZnzDPKsrW2LC5F4HBg)  密码: 6mf5
 - Java开发之道 [百度云](https://pan.baidu.com/s/12W0cw26GsqwxbaDIMmdjxQ)  密码: 65t9
 - JAVA解惑 [百度云](https://pan.baidu.com/s/1UMLbawb3wpGwL5_JDdXMSA)  密码: urhp
-- JAVA核心技术-卷Ⅰ、Ⅱ(基础知识、高级特性)(第八版) [百度云]链接: https://pan.baidu.com/s/1WE2vh40CBZYEQlh5PoVc0w  密码: jmin 
+- JAVA核心技术-卷Ⅰ、Ⅱ(基础知识、高级特性)(第八版) [百度云](https://pan.baidu.com/s/1WE2vh40CBZYEQlh5PoVc0w  密码: jmin 
 - Java编程思想(第4版) [百度云](https://pan.baidu.com/s/1B9on5l66LmaYtjGflCRaxw)  密码: 2r38
 - Java程序性能优化 [百度云](https://pan.baidu.com/s/1xciGULBdC7s0lYsoEEB39w)  密码: 5gph
 
@@ -290,8 +288,6 @@
 - 写给大家看的设计书(第4版) [百度云](https://pan.baidu.com/s/1VYqFpPzrD0N2Y-jGrc38ng)  密码: 3uu7
 - 亿级流量网站架构核心技术 [百度云](https://pan.baidu.com/s/1s7gpRwmfDclQeA3tSckPww)  密码: g0m9
 - 应用服务架构及调优 [百度云](https://pan.baidu.com/s/1qrlJKRYT4xhaYAXYv7CTPQ)  密码: r1oj  
-- 微服务，高并发，线上问题经历总结10万字电子书-二马读书 [百度云](https://pan.baidu.com/s/13TdTWWN-BY6qHTFU_3aTtA)  密码: 4t65
-- 亿级流量下的分布式限流解决方案-冰河技术 [百度云](https://pan.baidu.com/s/1dlnAshalMr_GHWUkS2eREQ)  密码: 70gq
 
 - 微服务设计(中文完整版) [百度云](https://pan.baidu.com/s/1reXMo3L0iC_M9DUG7pw2dg)  密码: ctbq
                  
@@ -305,8 +301,6 @@
 - 设计模式之禅 [百度云](https://pan.baidu.com/s/1OVNZJIvL0Y72WhooNQC7mg)  密码: lrqj
 - 设计原本(中文版) [百度云](https://pan.baidu.com/s/1RkKsxE0H7rMGWKqgQGHqPQ)  密码: 1hap
 - 设计原本：计算机科学巨匠Frederick+P.Brooks的思考(评注版) [百度云](https://pan.baidu.com/s/1OHHYPxIOl6N2yvhKtmSk-w)  密码: stg5
-- 深入浅出Java+23种设计模式-冰河技术 [百度云](https://pan.baidu.com/s/1I9LfokijHHr69Z_uUJWuKQ)  密码: iqrp
-- 重学Java设计模式·小傅哥(公众号：bugstack虫洞栈) [百度云](https://pan.baidu.com/s/1IT6NPosdNnCDLJW5_Vbf6g)  密码: 65tc
                                                                                                  
 # 思维提升
 
@@ -337,7 +331,6 @@
 - 鲜活的数据-数据可视化指南 [百度云](https://pan.baidu.com/s/1YaLBhFqQJMtKbdQgBEvv8A)  密码: 4h6k
 - 支付宝前端技术之路 [百度云](https://pan.baidu.com/s/1FemFz9yYQnwoUejQJ2fI3A)  密码: nrq3
 - 卓有成效的程序员 [百度云](https://pan.baidu.com/s/1mL2X3Tyazt0OCVK9FSIvWA)  密码: 9lvk
-- 字节码编程-小傅哥(公众号：bugstack虫洞栈) [百度云](https://pan.baidu.com/s/1X7zKz3dT9578O0_EFMNu_g)  密码: 51id
                                                             
  
 # 重构-优化
@@ -412,7 +405,6 @@
 - 白话大数据与机器学习 [百度云](https://pan.baidu.com/s/1b3ax0xhBl3Z1gp4Kop5jZA)  密码: pv97
 - MLY-zh-cn [百度云](https://pan.baidu.com/s/1DUWLoUFR1EbMXAb_kpK9Kw)  密码: hh6v
 - Machine Learning Yearning 1-58 [百度云](https://pan.baidu.com/s/1j-hMY8ovGSa6V92EjLqO8w)  密码: 79ng
-- AI+学习路线-公子龙 [百度云](https://pan.baidu.com/s/1EIBt9FjGCgWg5HUUnU7oOQ)  密码: 9fdc                  
                                                                                  
 # 面试
 - 1000道Java面试题 [百度云](https://pan.baidu.com/s/1MdnEr2mcaq8ChehIJeYB3w)  密码: f59n
@@ -423,7 +415,6 @@
 - JVM面试专题 [百度云](https://pan.baidu.com/s/1ZDyp0j6gBwVE62pFo7Ug3w)  密码: th6h
 - Java程序员面试宝典(第2版) [百度云](https://pan.baidu.com/s/1K9HmrF63lO9i1R6FU-mNpw)  密码: 7jkn
 - Java程序员面试宝典(第二版) [百度云](https://pan.baidu.com/s/1sfkX2xOraR-hhuAXmIu9yg)  密码: oc76
-- Java面经手册·小傅哥(公众号：bugstack虫洞栈) [百度云](https://pan.baidu.com/s/1mruHQbAlCGeAvOX0wFKHUg)  密码: 0i8h
 - Java面试关键与综合软件项目开发全程实战 [百度云](https://pan.baidu.com/s/1qlbcQ1O49S52MX6phd6f6A)  密码: 2u60
 - MyBatis面试专题 [百度云](https://pan.baidu.com/s/1xwlMrlRNFWgeJbnKB02hdQ)  密码: 17h5
 - MySQL面试专题 [百度云](https://pan.baidu.com/s/1mWfCbAQWHr4N203PRSDzOA)  密码: s45b
@@ -481,7 +472,7 @@
                                  
 # 免责声明
 
-书籍全部来源于网络，如有侵权，联系邮箱：1659177869@qq.com删除。
+书籍全部来源于网络，如有侵权，联系邮箱：1659177869@qq.com 删除。
 
 
 
