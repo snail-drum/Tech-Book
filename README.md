@@ -8,6 +8,7 @@
 - [C++](#C++)
 - [JAVA](#JAVA)
 - [PYTHON](#PYTHON)
+
 - [GO](#GO)
 - [数据库](#数据库)
 - [消息队列](#消息队列)
@@ -80,7 +81,7 @@
 - 高质量Java编程实践v4 [百度云](https://pan.baidu.com/s/1AkRhZnzDPKsrW2LC5F4HBg)  密码: 6mf5
 - Java开发之道 [百度云](https://pan.baidu.com/s/12W0cw26GsqwxbaDIMmdjxQ)  密码: 65t9
 - JAVA解惑 [百度云](https://pan.baidu.com/s/1UMLbawb3wpGwL5_JDdXMSA)  密码: urhp
-- JAVA核心技术-卷Ⅰ、Ⅱ(基础知识、高级特性)(第八版) [百度云](https://pan.baidu.com/s/1WE2vh40CBZYEQlh5PoVc0w  密码: jmin 
+- JAVA核心技术-卷Ⅰ、Ⅱ(基础知识、高级特性)(第八版) [百度云](https://pan.baidu.com/s/1WE2vh40CBZYEQlh5PoVc0w)  密码: jmin 
 - Java编程思想(第4版) [百度云](https://pan.baidu.com/s/1B9on5l66LmaYtjGflCRaxw)  密码: 2r38
 - Java程序性能优化 [百度云](https://pan.baidu.com/s/1xciGULBdC7s0lYsoEEB39w)  密码: 5gph
 
@@ -89,7 +90,6 @@
 - 轻量级Java+EE企业应用实战(第3版) [百度云](https://pan.baidu.com/s/1-zbX29WlqttQ7jOUtWpTKg)  密码: p73q
 - j2ee核心模式第二版 [百度云](https://pan.baidu.com/s/1Ktt_DhrqdRe-gLfJ4OuFYA)  密码: e1pl
                                                   
-- Java8新特性-冰河技术 [百度云](https://pan.baidu.com/s/13m-T1cP9-PWEo4tc1GDMHg)  密码: b69u
 - JAVA 8实战 [百度云](https://pan.baidu.com/s/1FABok5IFX89seNlU0nVskg)  密码: l65m
 - functional programming in java [百度云](https://pan.baidu.com/s/1WA9-4JhxenRIUr4KcHac3w)  密码: 0bqp
 
@@ -257,7 +257,7 @@
 - LINUX(UNIX)系统编程手册 [百度云](https://pan.baidu.com/s/1j13MgIhkhoXZgGJ8zpnTbA)  密码: ij1b
 - Linux 高级Bash脚本编程指南(中文版) [百度云](https://pan.baidu.com/s/15zoocFpuFqi6s0r9rT5p4w)  密码: s8m2
 - Linux Command Line and Shell Scripting Bible(2nd Edition) [百度云](https://pan.baidu.com/s/1i27gGx3sl1Y_pbNRmzu8RA)  密码: cvsq
-- abs-guide [百度云](链接: https://pan.baidu.com/s/1phQylhakXd_FM3Q5gMaZDA)  密码: c8r1
+- abs-guide [百度云](https://pan.baidu.com/s/1phQylhakXd_FM3Q5gMaZDA)  密码: c8r1
                                                                           
 # GIT&GITHUB
 - Pro Git(中文版) [百度云](https://pan.baidu.com/s/1bmj2ORIXQgUOEj1ELOdRAA)  密码: 5qu8
